@@ -1,0 +1,21 @@
+body{
+    background-color: #FFFF;
+}
+
+h1, h2, h3{
+    color: #4d6e41bf;
+}
+
+hr{
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+footer {
+    text-align:center;
+    padding: 5px;
+    background-color: #abbaba;
+    color: #000;
+}
