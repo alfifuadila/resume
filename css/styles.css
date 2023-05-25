@@ -3,7 +3,7 @@ body{
 }
 
 h1, h2, h3{
-    color: #4d6e41bf;
+    color: #31362fbf;
 }
 
 hr{
@@ -11,6 +11,11 @@ hr{
     border-color: grey;
     border-width: 5px;
     width: 5%;
+}
+
+.subject{
+    font-weight: bold;
+    color: #616b6b;
 }
 
 footer {
